@@ -46,7 +46,7 @@ let products=[
     {
         id:1, 
         image_circle:'../images/grand-mom-300x300.jpg',
-        images:'../images/hover_images.jpg', 
+        images:'images/hover_images.jpg', 
         name:'GRAND MOMES SECRET HIAR OIL ',
         Price:600,
         discount_price:300,
@@ -54,8 +54,8 @@ let products=[
     },
     {
         id:2, 
-        image_circle:'../images/hibiscus-and-condi-03-1-300x300.jpg',
-        images:'../images/hibiscus-shamppo-300x300.jpg', 
+        image_circle:'images/hibiscus-and-condi-03-1-300x300.jpg',
+        images:'images/hibiscus-shamppo-300x300.jpg', 
         name:'HIBISCUS SHAMPOO & CONDITONER  kIT',
         Price:500,
         discount_price:350,
@@ -63,8 +63,8 @@ let products=[
     },
     {
         id:3, 
-        image_circle:'../images/SERUM.jpg',
-        images:'../images/hair-serum-03-300x300.jpg', 
+        image_circle:'images/SERUM.jpg',
+        images:'images/hair-serum-03-300x300.jpg', 
         name:'HAIR REGROWTH SERUM',
         Price:585,
         discount_price:385,
@@ -81,8 +81,8 @@ let products=[
     },
     {
         id:5, 
-        image_circle:'../images/item-2.jpeg',
-        images:'../images/hover_images.jpg', 
+        image_circle:'images/item-2.jpeg',
+        images:'images/hover_images.jpg', 
         name:'FULL BEAUTY COMBO',
         Price:1400,
         discount_price:1200,
@@ -90,8 +90,8 @@ let products=[
     },
     {
         id:6, 
-        image_circle:'../images/balck seed 1.jpg',
-        images:'../images/hover_images.jpg', 
+        image_circle:'images/balck seed 1.jpg',
+        images:'images/hover_images.jpg', 
         name:'BLACK SEED ONION OIL',
         Price:750,
         discount_price:550,
