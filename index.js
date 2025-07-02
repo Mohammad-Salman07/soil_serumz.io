@@ -45,7 +45,7 @@ let list=document.querySelector(".list")
 let products=[
     {
         id:1, 
-        image_circle:'../images/grand-mom-300x300.jpg',
+        image_circle:'images/grand-mom-300x300.jpg',
         images:'images/hover_images.jpg', 
         name:'GRAND MOMES SECRET HIAR OIL ',
         Price:600,
@@ -72,8 +72,8 @@ let products=[
     },
     {
         id:4, 
-        image_circle:'../images/long-hair-kit.jpg',
-        images:'../images/long-hair-kit-04.jpg', 
+        image_circle:'images/long-hair-kit.jpg',
+        images:'images/long-hair-kit-04.jpg', 
         name:'LONH HAIR KIT',
         Price:2100,
         discount_price:1950,
